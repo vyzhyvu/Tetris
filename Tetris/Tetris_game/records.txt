@@ -1,0 +1,10 @@
+marathon
+-1
+easy
+-1
+sprint
+-1
+ultra
+-1
+endless
+244
